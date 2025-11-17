@@ -3,3 +3,4 @@ pillow
 pytesseract
 gunicorn
 opencv-python
+flask-cors
